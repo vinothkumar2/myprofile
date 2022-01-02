@@ -64,7 +64,8 @@ projectData =  [
     "link":"https://vijaywea.herokuapp.com/",
     "repo":""
 },
-/* {
+  /* 
+{
     "projectname": "Lucky BirthDay",
     "projectDate": "Aug 2021",
     "projectDescription": "Find out if sum of your birthday is lucky or not.",
