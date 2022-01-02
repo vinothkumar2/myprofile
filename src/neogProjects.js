@@ -46,21 +46,21 @@ projectData =  [
     "projectname": "Vaishali Video Streaming Bot",
     "projectDate": "2021",
     "projectDescription": "Help to Stream Live Videos in Telegram Group",
-    "tags":"mark14, VanillaJS, Tailwind",
+    
     "link":"https://telegram.me/vaishali_video_streaming_bot",
     "repo":""
 },{
     "projectname": "Malar Audio Streaming",
     "projectDate": "2021",
     "projectDescription": "Help to Stream Audio in Telegram Group and Channels",
-    "tags":"mark13, VanillaJS, Tailwind",
+    
     "link":"https://telegram.me/malar_audio_streaming_bot",
     "repo":""
 },{
     "projectname": "To find current Weather",
     "projectDate": "Aug 2021",
     "projectDescription": "Python Flash App to find Current Weather",
-    "tags":"mark12, ReactJS, Tailwind",
+   
     "link":"https://vijaywea.herokuapp.com/",
     "repo":""
 },
@@ -69,7 +69,7 @@ projectData =  [
     "projectname": "Shashaa OCR Bot",
     "projectDate": "Dec 2021",
     "projectDescription": "A Telegram bot to Extract text from images",
-    "tags":"mark11, VanillaJS, Tailwind",
+   
     "link":"https://telegram.me/shashaa_ocr_bot",
     "repo":""
 },
