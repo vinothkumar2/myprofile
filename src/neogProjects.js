@@ -47,14 +47,14 @@ projectData =  [
     "projectDate": "2021",
     "projectDescription": "Help to Stream Live Videos in Telegram Group",
     "tags":"mark14, VanillaJS, Tailwind",
-    "link":"https://t.me/vaishali_video_streaming_bot",
+    "link":"https://telegram.me/vaishali_video_streaming_bot",
     "repo":""
 },{
     "projectname": "Malar Audio Streaming",
     "projectDate": "2021",
     "projectDescription": "Help to Stream Audio in Telegram Group and Channels",
     "tags":"mark13, VanillaJS, Tailwind",
-    "link":"https://t.me/malar_audio_streaming_bot",
+    "link":"https://telegram.me/malar_audio_streaming_bot",
     "repo":""
 },{
     "projectname": "To find current Weather",
@@ -66,12 +66,12 @@ projectData =  [
 },
 
 {
-    "projectname": "Lucky BirthDay",
-    "projectDate": "Aug 2021",
-    "projectDescription": "Find out if sum of your birthday is lucky or not.",
+    "projectname": "Shashaa OCR Bot",
+    "projectDate": "Dec 2021",
+    "projectDescription": "A Telegram bot to Extract text from images",
     "tags":"mark11, VanillaJS, Tailwind",
-    "link":"https://birthday-lucky-neog.netlify.app/",
-    "repo":"https://github.com/Logan1x/luckyBirthday"
+    "link":"https://telegram.me/shashaa_ocr_bot",
+    "repo":""
 },
     /* 
 {
