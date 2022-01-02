@@ -64,7 +64,7 @@ projectData =  [
     "link":"https://vijaywea.herokuapp.com/",
     "repo":""
 },
-  /* 
+
 {
     "projectname": "Lucky BirthDay",
     "projectDate": "Aug 2021",
@@ -73,6 +73,7 @@ projectData =  [
     "link":"https://birthday-lucky-neog.netlify.app/",
     "repo":"https://github.com/Logan1x/luckyBirthday"
 },
+    /* 
 {
     "projectname": "Cash Register Manager",
     "projectDate": "Aug 2021",
