@@ -73,15 +73,15 @@ projectData =  [
     "link":"https://telegram.me/shashaa_ocr_bot",
     "repo":""
 },
-    /* 
+   
 {
-    "projectname": "Cash Register Manager",
-    "projectDate": "Aug 2021",
-    "projectDescription": "A cash register manager which gives you change in minimum number of notes.",
-    "tags":"markTen, VanillaJS, Tailwind",
-    "link":"https://cash-register-manager-neog.netlify.app/",
-    "repo":"https://github.com/Logan1x/cashRegister"
+    "projectname": "Saanve Photo Background Remover",
+    "projectDate": "2022",
+    "projectDescription": "📸 Photo background remover bot 🤖",
+    "link":"https://telegram.me/remove_bg_ai_bot",
+    "repo":""
 },
+   /* 
 {
     "projectname": "GoodBook",
     "projectDate": "Jan 2021",
